@@ -1,0 +1,12 @@
+[submodule "Advanced_OS_Homework1"]
+	path = Advanced_OS_Homework1
+	url = https://github.com/prashanth-thipparthi/Advanced_OS_Homework1.git
+[submodule "Advanced_OS_Homework4"]
+	path = Advanced_OS_Homework4
+	url = https://github.com/prashanth-thipparthi/Advanced_OS_Homework4.git
+[submodule "Adv_OS_Homework2"]
+	path = Adv_OS_Homework2
+	url = https://github.com/prashanth-thipparthi/Adv_OS_Homework2.git
+[submodule "Advanced_OS_Homework3"]
+	path = Advanced_OS_Homework3
+	url = https://github.com/prashanth-thipparthi/Advanced_OS_Homework3.git
